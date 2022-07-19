@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.secondaire {
+    /* height: 100vh; */
+    margin-top: 30px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.bouton {
+    text-align: center;
+}
+
+button,
+input {
+    border: none;
+    margin-bottom: 15px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: beige;
+}
+
+.body {
+    display: flex;
+}
+
+.principal,
+.secondaire {
+    width: 50%;
+}
+
+.principal {
+    margin-top: 30px;
+}
+
+_ .bouton {
+    word-spacing: 50px;
+}
+
+.Admin {
+    background-color: blue;
+    border-color: blue;
+}
+
+.Employee {
+    background-color: aqua;
+    border-color: aqua';
+
+}
+
+.client {
+    background-color: azure;
+    color: blue;
+    font-size: large, solid;
+}
+
+.login {
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
